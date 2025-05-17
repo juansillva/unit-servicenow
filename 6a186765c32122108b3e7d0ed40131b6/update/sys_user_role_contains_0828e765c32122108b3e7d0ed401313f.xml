@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="sn_creatorstudio.basic_fulfiller" name="sn_creatorstudio.basic_fulfiller">13a86cffc76042102208c8d6f2c260a3</contains>
+        <role display_value="x_1649853_unit.agent" name="x_1649853_unit.agent">7b18e765c32122108b3e7d0ed4013115</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 19:09:14</sys_created_on>
+        <sys_id>0828e765c32122108b3e7d0ed401313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_creatorstudio.basic_fulfiller.x_1649853_unit.agent</sys_name>
+        <sys_package display_value="UNIT" source="x_1649853_unit">6a186765c32122108b3e7d0ed40131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">6a186765c32122108b3e7d0ed40131b6</sys_scope>
+        <sys_update_name>sys_user_role_contains_0828e765c32122108b3e7d0ed401313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 19:09:14</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

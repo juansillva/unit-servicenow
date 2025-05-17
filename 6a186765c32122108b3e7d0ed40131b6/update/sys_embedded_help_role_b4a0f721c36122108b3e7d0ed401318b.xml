@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1649853_unit.cadeiras_user" name="x_1649853_unit.cadeiras_user">70a0f721c36122108b3e7d0ed401318a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 19:46:25</sys_created_on>
+        <sys_id>b4a0f721c36122108b3e7d0ed401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>70a0f721c36122108b3e7d0ed401318a</sys_name>
+        <sys_package display_value="UNIT" source="x_1649853_unit">6a186765c32122108b3e7d0ed40131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">6a186765c32122108b3e7d0ed40131b6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b4a0f721c36122108b3e7d0ed401318b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 19:46:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
